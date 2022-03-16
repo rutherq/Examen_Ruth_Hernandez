@@ -2,3 +2,4 @@ pl tano
 manzana
 pera
 naranja
+mandarina
